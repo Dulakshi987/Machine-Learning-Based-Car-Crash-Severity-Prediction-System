@@ -1,0 +1,460 @@
+2026-02-08 23:40:24,271 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-08 23:40:24,277 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-08 23:40:24,346 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-08 23:40:24,346 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-08 23:40:24,375 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-08 23:40:28,794 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-08 23:40:28,800 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-08 23:40:28,833 [WARNING]  * Debugger is active!
+2026-02-08 23:40:28,853 [INFO]  * Debugger PIN: 186-367-832
+2026-02-08 23:40:28,913 [INFO] 127.0.0.1 - - [08/Feb/2026 23:40:28] "GET / HTTP/1.1" 200 -
+2026-02-08 23:40:29,152 [INFO] 127.0.0.1 - - [08/Feb/2026 23:40:29] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:40:30,765 [INFO] 127.0.0.1 - - [08/Feb/2026 23:40:30] "GET / HTTP/1.1" 200 -
+2026-02-08 23:40:30,827 [INFO] 127.0.0.1 - - [08/Feb/2026 23:40:30] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:43:30,703 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-08 23:43:30,709 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-08 23:43:30,790 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-08 23:43:30,791 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-08 23:43:30,829 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-08 23:43:32,502 [INFO] 127.0.0.1 - - [08/Feb/2026 23:43:32] "GET / HTTP/1.1" 200 -
+2026-02-08 23:43:32,623 [INFO] 127.0.0.1 - - [08/Feb/2026 23:43:32] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:43:35,471 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-08 23:43:35,477 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-08 23:43:35,536 [WARNING]  * Debugger is active!
+2026-02-08 23:43:35,558 [INFO]  * Debugger PIN: 186-367-832
+2026-02-08 23:43:37,120 [INFO] 127.0.0.1 - - [08/Feb/2026 23:43:37] "GET / HTTP/1.1" 200 -
+2026-02-08 23:43:37,171 [INFO] 127.0.0.1 - - [08/Feb/2026 23:43:37] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:43:41,218 [INFO] Prediction made: Fatal with confidence 0.955
+2026-02-08 23:43:41,219 [INFO] 127.0.0.1 - - [08/Feb/2026 23:43:41] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:45:48,361 [INFO]  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\sklearn\\base.py', reloading
+2026-02-08 23:45:48,362 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-08 23:45:48,368 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-08 23:45:48,433 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-08 23:45:48,434 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-08 23:45:48,467 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-08 23:45:48,764 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-08 23:45:53,314 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-08 23:45:53,321 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-08 23:45:53,359 [WARNING]  * Debugger is active!
+2026-02-08 23:45:53,382 [INFO]  * Debugger PIN: 186-367-832
+2026-02-08 23:45:53,607 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-08 23:45:53,612 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-08 23:45:53,646 [WARNING]  * Debugger is active!
+2026-02-08 23:45:53,665 [INFO]  * Debugger PIN: 186-367-832
+2026-02-08 23:45:53,758 [INFO] 127.0.0.1 - - [08/Feb/2026 23:45:53] "GET / HTTP/1.1" 200 -
+2026-02-08 23:45:53,985 [INFO] 127.0.0.1 - - [08/Feb/2026 23:45:53] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:45:55,036 [INFO] 127.0.0.1 - - [08/Feb/2026 23:45:55] "GET / HTTP/1.1" 200 -
+2026-02-08 23:45:55,089 [INFO] 127.0.0.1 - - [08/Feb/2026 23:45:55] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:45:55,516 [INFO] 127.0.0.1 - - [08/Feb/2026 23:45:55] "GET / HTTP/1.1" 200 -
+2026-02-08 23:45:55,600 [INFO] 127.0.0.1 - - [08/Feb/2026 23:45:55] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:46:47,750 [INFO] Prediction made: Minor Injury with confidence 0.976
+2026-02-08 23:46:47,751 [INFO] 127.0.0.1 - - [08/Feb/2026 23:46:47] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:46:53,236 [INFO] Prediction made: Minor Injury with confidence 0.993
+2026-02-08 23:46:53,236 [INFO] 127.0.0.1 - - [08/Feb/2026 23:46:53] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:46:59,605 [INFO] Prediction made: Minor Injury with confidence 0.593
+2026-02-08 23:46:59,606 [INFO] 127.0.0.1 - - [08/Feb/2026 23:46:59] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:47:06,170 [INFO] Prediction made: Minor Injury with confidence 0.899
+2026-02-08 23:47:06,171 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:06] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:47:17,187 [INFO] Prediction made: Minor Injury with confidence 0.899
+2026-02-08 23:47:17,187 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:17] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:47:24,492 [INFO] Prediction made: Minor Injury with confidence 0.918
+2026-02-08 23:47:24,493 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:24] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:47:34,782 [INFO] Prediction made: Minor Injury with confidence 0.753
+2026-02-08 23:47:34,783 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:34] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:47:44,211 [INFO] Prediction made: Minor Injury with confidence 0.753
+2026-02-08 23:47:44,212 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:44] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:47:55,263 [INFO] Prediction made: Minor Injury with confidence 0.803
+2026-02-08 23:47:55,264 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:55] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:47:58,381 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:58] "GET / HTTP/1.1" 200 -
+2026-02-08 23:47:58,529 [INFO] 127.0.0.1 - - [08/Feb/2026 23:47:58] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:48:23,906 [INFO] Prediction made: Minor Injury with confidence 0.957
+2026-02-08 23:48:23,906 [INFO] 127.0.0.1 - - [08/Feb/2026 23:48:23] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:48:27,768 [INFO] 127.0.0.1 - - [08/Feb/2026 23:48:27] "GET / HTTP/1.1" 200 -
+2026-02-08 23:48:27,819 [INFO] 127.0.0.1 - - [08/Feb/2026 23:48:27] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:48:31,398 [INFO] Prediction made: Fatal with confidence 0.955
+2026-02-08 23:48:31,399 [INFO] 127.0.0.1 - - [08/Feb/2026 23:48:31] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:48:37,705 [INFO] Prediction made: Fatal with confidence 0.829
+2026-02-08 23:48:37,705 [INFO] 127.0.0.1 - - [08/Feb/2026 23:48:37] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:48:46,047 [INFO] Prediction made: Minor Injury with confidence 0.958
+2026-02-08 23:48:46,048 [INFO] 127.0.0.1 - - [08/Feb/2026 23:48:46] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:48:52,489 [INFO] Prediction made: Minor Injury with confidence 0.958
+2026-02-08 23:48:52,490 [INFO] 127.0.0.1 - - [08/Feb/2026 23:48:52] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:49:01,793 [INFO] Prediction made: Minor Injury with confidence 0.958
+2026-02-08 23:49:01,794 [INFO] 127.0.0.1 - - [08/Feb/2026 23:49:01] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:49:07,607 [INFO] Prediction made: Minor Injury with confidence 0.958
+2026-02-08 23:49:07,608 [INFO] 127.0.0.1 - - [08/Feb/2026 23:49:07] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:50:07,644 [INFO] Prediction made: Minor Injury with confidence 0.496
+2026-02-08 23:50:07,645 [INFO] 127.0.0.1 - - [08/Feb/2026 23:50:07] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:50:14,949 [INFO] Prediction made: Severe Injury with confidence 0.459
+2026-02-08 23:50:14,949 [INFO] 127.0.0.1 - - [08/Feb/2026 23:50:14] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:50:22,571 [INFO] 127.0.0.1 - - [08/Feb/2026 23:50:22] "GET / HTTP/1.1" 200 -
+2026-02-08 23:50:22,731 [INFO] 127.0.0.1 - - [08/Feb/2026 23:50:22] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-08 23:50:34,956 [INFO] Prediction made: Fatal with confidence 0.829
+2026-02-08 23:50:34,957 [INFO] 127.0.0.1 - - [08/Feb/2026 23:50:34] "POST /predict HTTP/1.1" 200 -
+2026-02-08 23:50:40,097 [INFO] Prediction made: Fatal with confidence 0.829
+2026-02-08 23:50:40,098 [INFO] 127.0.0.1 - - [08/Feb/2026 23:50:40] "POST /predict HTTP/1.1" 200 -
+2026-02-09 01:00:08,437 [INFO]  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\flask\\__init__.py', reloading
+2026-02-09 01:00:08,569 [INFO]  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\flask\\__init__.py', reloading
+2026-02-09 01:00:11,504 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 01:00:18,458 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 01:00:19,937 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 01:00:19,947 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 01:00:19,978 [WARNING]  * Debugger is active!
+2026-02-09 01:00:19,995 [INFO]  * Debugger PIN: 186-367-832
+2026-02-09 01:00:21,827 [INFO] 127.0.0.1 - - [09/Feb/2026 01:00:21] "GET / HTTP/1.1" 200 -
+2026-02-09 01:00:22,103 [INFO] 127.0.0.1 - - [09/Feb/2026 01:00:22] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 01:00:23,694 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 01:00:23,701 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 01:00:23,733 [WARNING]  * Debugger is active!
+2026-02-09 01:00:23,750 [INFO]  * Debugger PIN: 186-367-832
+2026-02-09 01:00:25,510 [INFO] 127.0.0.1 - - [09/Feb/2026 01:00:25] "GET / HTTP/1.1" 200 -
+2026-02-09 01:00:25,553 [INFO] 127.0.0.1 - - [09/Feb/2026 01:00:25] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 12:01:36,889 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:01:36,947 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:01:37,863 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:01:37,864 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:01:39,966 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:01:44,601 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:01:44,607 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:01:44,649 [WARNING]  * Debugger is active!
+2026-02-09 12:01:44,660 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:01:44,726 [INFO] 127.0.0.1 - - [09/Feb/2026 12:01:44] "GET / HTTP/1.1" 200 -
+2026-02-09 12:01:44,943 [INFO] 127.0.0.1 - - [09/Feb/2026 12:01:44] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 12:01:45,201 [WARNING] 404 Error: /favicon.ico not found
+2026-02-09 12:01:45,202 [INFO] 127.0.0.1 - - [09/Feb/2026 12:01:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-09 12:01:46,411 [INFO] 127.0.0.1 - - [09/Feb/2026 12:01:46] "GET / HTTP/1.1" 200 -
+2026-02-09 12:01:46,469 [INFO] 127.0.0.1 - - [09/Feb/2026 12:01:46] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 12:03:45,785 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:03:45,790 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:03:45,897 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:03:45,897 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:03:45,918 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:03:51,277 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:03:51,280 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:03:51,408 [WARNING]  * Debugger is active!
+2026-02-09 12:03:51,425 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:03:51,491 [INFO] 127.0.0.1 - - [09/Feb/2026 12:03:51] "GET / HTTP/1.1" 200 -
+2026-02-09 12:03:51,665 [INFO] 127.0.0.1 - - [09/Feb/2026 12:03:51] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 12:03:52,868 [INFO] 127.0.0.1 - - [09/Feb/2026 12:03:52] "GET / HTTP/1.1" 200 -
+2026-02-09 12:03:52,912 [INFO] 127.0.0.1 - - [09/Feb/2026 12:03:52] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 12:04:41,205 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:04:41,206 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:04:41,207 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:04:42,893 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:04:48,308 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:04:48,312 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:04:48,371 [WARNING]  * Debugger is active!
+2026-02-09 12:04:48,396 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:05:11,409 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:05:11,412 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:05:11,493 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:05:11,493 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:05:11,513 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:05:15,373 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:05:15,376 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:05:15,415 [WARNING]  * Debugger is active!
+2026-02-09 12:05:15,429 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:14:57,415 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:14:57,419 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:14:57,488 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:14:57,488 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:14:57,516 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:15:02,445 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:15:02,448 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:15:02,492 [WARNING]  * Debugger is active!
+2026-02-09 12:15:02,508 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:15:11,196 [INFO] 127.0.0.1 - - [09/Feb/2026 12:15:11] "GET / HTTP/1.1" 200 -
+2026-02-09 12:15:11,378 [INFO] 127.0.0.1 - - [09/Feb/2026 12:15:11] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 12:15:15,142 [INFO] Prediction made: Fatal with confidence 0.588
+2026-02-09 12:15:15,143 [INFO] 127.0.0.1 - - [09/Feb/2026 12:15:15] "POST /predict HTTP/1.1" 200 -
+2026-02-09 12:15:20,794 [INFO] Prediction made: Fatal with confidence 0.955
+2026-02-09 12:15:20,795 [INFO] 127.0.0.1 - - [09/Feb/2026 12:15:20] "POST /predict HTTP/1.1" 200 -
+2026-02-09 12:15:28,820 [INFO] Prediction made: Severe Injury with confidence 0.521
+2026-02-09 12:15:28,820 [INFO] 127.0.0.1 - - [09/Feb/2026 12:15:28] "POST /predict HTTP/1.1" 200 -
+2026-02-09 12:16:04,949 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:04,950 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:05,357 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:16:10,802 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:16:10,806 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:16:10,862 [WARNING]  * Debugger is active!
+2026-02-09 12:16:10,873 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:16:23,214 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:23,216 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:23,219 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:24,350 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:16:29,960 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:16:29,963 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:16:30,011 [WARNING]  * Debugger is active!
+2026-02-09 12:16:30,028 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:16:30,474 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:30,475 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:30,476 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:31,586 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:16:36,498 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:16:36,501 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:16:36,545 [WARNING]  * Debugger is active!
+2026-02-09 12:16:36,557 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:16:36,783 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:36,786 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:36,788 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:38,116 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:16:43,544 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:16:43,547 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:16:43,595 [WARNING]  * Debugger is active!
+2026-02-09 12:16:43,611 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:16:46,069 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:46,070 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:46,071 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:47,184 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:16:52,643 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:16:52,647 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:16:52,775 [WARNING]  * Debugger is active!
+2026-02-09 12:16:52,788 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:16:56,331 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:56,332 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:16:57,392 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:17:02,633 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:17:02,636 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:17:02,686 [WARNING]  * Debugger is active!
+2026-02-09 12:17:02,699 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:17:27,545 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:17:27,552 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:17:28,289 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:18:00,066 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:18:00,069 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:18:00,149 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:18:00,149 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:18:00,179 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:18:05,311 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:18:05,314 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:18:05,375 [WARNING]  * Debugger is active!
+2026-02-09 12:18:05,387 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:19:45,284 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:19:45,285 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:19:45,677 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:19:55,629 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:19:55,633 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:19:55,704 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:19:55,705 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:19:55,728 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:20:00,168 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:20:00,171 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:20:00,214 [WARNING]  * Debugger is active!
+2026-02-09 12:20:00,228 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:20:35,919 [INFO] 127.0.0.1 - - [09/Feb/2026 12:20:35] "GET / HTTP/1.1" 200 -
+2026-02-09 12:20:36,118 [INFO] 127.0.0.1 - - [09/Feb/2026 12:20:36] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 12:21:16,002 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:21:17,184 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:21:22,327 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:21:22,330 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:21:22,373 [WARNING]  * Debugger is active!
+2026-02-09 12:21:22,388 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:22:05,163 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:22:05,164 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:22:06,078 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:22:11,692 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:22:11,695 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:22:11,747 [WARNING]  * Debugger is active!
+2026-02-09 12:22:11,759 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:22:41,066 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:22:41,066 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:22:42,394 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:22:47,618 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:22:47,621 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:22:47,659 [WARNING]  * Debugger is active!
+2026-02-09 12:22:47,671 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:22:49,638 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:22:50,037 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:22:55,366 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:22:55,368 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:22:55,404 [WARNING]  * Debugger is active!
+2026-02-09 12:22:55,416 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:24:55,504 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:24:55,504 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:24:56,809 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:25:02,183 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:25:02,186 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:25:02,223 [WARNING]  * Debugger is active!
+2026-02-09 12:25:02,235 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:25:06,150 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:25:06,150 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:25:06,151 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:25:06,820 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:25:11,872 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:25:11,876 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:25:11,913 [WARNING]  * Debugger is active!
+2026-02-09 12:25:11,924 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:26:00,742 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:26:00,745 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:26:00,746 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:26:01,625 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:26:06,383 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:26:06,390 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:26:06,462 [WARNING]  * Debugger is active!
+2026-02-09 12:26:06,489 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:26:29,983 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:26:29,987 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:26:30,071 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:26:30,071 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:26:30,094 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:26:34,643 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:26:34,646 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:26:34,686 [WARNING]  * Debugger is active!
+2026-02-09 12:26:34,698 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:26:38,978 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:26:38,979 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:26:40,113 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:26:49,087 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:26:49,090 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:26:49,153 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:26:49,153 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:26:49,180 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:26:54,105 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:26:54,108 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:26:54,147 [WARNING]  * Debugger is active!
+2026-02-09 12:26:54,158 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:27:00,907 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:27:00,910 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:27:01,607 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:27:13,278 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:27:13,347 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 12:27:13,347 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 12:27:13,370 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:27:17,933 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:27:17,973 [WARNING]  * Debugger is active!
+2026-02-09 12:27:17,986 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:27:26,099 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:27:26,102 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:27:27,505 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:27:32,884 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:27:32,887 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:27:32,929 [WARNING]  * Debugger is active!
+2026-02-09 12:27:32,940 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:28:16,341 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:28:16,344 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:28:16,678 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:28:22,412 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:28:22,415 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:28:22,455 [WARNING]  * Debugger is active!
+2026-02-09 12:28:22,473 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:29:57,446 [INFO] 127.0.0.1 - - [09/Feb/2026 12:29:57] "GET / HTTP/1.1" 200 -
+2026-02-09 12:29:57,627 [INFO] 127.0.0.1 - - [09/Feb/2026 12:29:57] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-02-09 12:29:57,858 [WARNING] 404 Error: /favicon.ico not found
+2026-02-09 12:29:57,859 [INFO] 127.0.0.1 - - [09/Feb/2026 12:29:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-09 12:30:01,633 [INFO] Prediction made: Fatal with confidence 0.588
+2026-02-09 12:30:01,634 [INFO] 127.0.0.1 - - [09/Feb/2026 12:30:01] "POST /predict HTTP/1.1" 200 -
+2026-02-09 12:36:01,739 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:01,741 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:01,742 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:02,347 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:36:07,959 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:36:07,963 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:36:08,002 [WARNING]  * Debugger is active!
+2026-02-09 12:36:08,015 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:36:09,178 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:09,180 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:09,181 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:10,540 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:36:16,090 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:36:16,093 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:36:16,131 [WARNING]  * Debugger is active!
+2026-02-09 12:36:16,142 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 12:36:16,529 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:16,530 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 12:36:17,769 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 12:36:22,681 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 12:36:22,684 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 12:36:22,725 [WARNING]  * Debugger is active!
+2026-02-09 12:36:22,737 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 14:30:40,795 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\streamlit_app.py', reloading
+2026-02-09 14:30:42,093 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 14:30:48,730 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 14:30:48,734 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 14:30:48,798 [WARNING]  * Debugger is active!
+2026-02-09 14:30:48,812 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 14:31:42,559 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 14:31:42,560 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 14:31:42,560 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\app.py', reloading
+2026-02-09 14:31:43,839 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 14:31:50,346 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 14:31:50,353 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 14:31:50,395 [WARNING]  * Debugger is active!
+2026-02-09 14:31:50,406 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 14:32:18,553 [INFO]  * Detected change in 'C:\\Users\\hp\\Desktop\\project\\streamlit_app.py', reloading
+2026-02-09 14:32:19,052 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 14:32:25,081 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 14:32:25,085 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 14:32:25,123 [WARNING]  * Debugger is active!
+2026-02-09 14:32:25,135 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 14:32:41,069 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 14:32:41,073 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 14:32:41,673 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-09 14:32:41,673 [INFO] [33mPress CTRL+C to quit[0m
+2026-02-09 14:32:41,696 [INFO]  * Restarting with watchdog (windowsapi)
+2026-02-09 14:32:47,123 [INFO] Crash severity system loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\crash_severity_system.pkl
+2026-02-09 14:32:47,127 [INFO] Preprocessing artifacts loaded successfully from C:\Users\hp\1.CI_CIS6005-II\models\preprocessing_artifacts.pkl
+2026-02-09 14:32:47,177 [WARNING]  * Debugger is active!
+2026-02-09 14:32:47,189 [INFO]  * Debugger PIN: 444-482-236
+2026-02-09 14:32:49,544 [INFO] 127.0.0.1 - - [09/Feb/2026 14:32:49] "GET / HTTP/1.1" 200 -
+2026-02-09 14:32:49,715 [INFO] 127.0.0.1 - - [09/Feb/2026 14:32:49] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 14:33:26,863 [INFO] Prediction made: Minor Injury with confidence 0.991
+2026-02-09 14:33:26,864 [INFO] 127.0.0.1 - - [09/Feb/2026 14:33:26] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:33:49,213 [INFO] Prediction made: Minor Injury with confidence 0.957
+2026-02-09 14:33:49,214 [INFO] 127.0.0.1 - - [09/Feb/2026 14:33:49] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:33:54,773 [INFO] Prediction made: Minor Injury with confidence 0.918
+2026-02-09 14:33:54,773 [INFO] 127.0.0.1 - - [09/Feb/2026 14:33:54] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:34:06,771 [INFO] Prediction made: Minor Injury with confidence 0.918
+2026-02-09 14:34:06,771 [INFO] 127.0.0.1 - - [09/Feb/2026 14:34:06] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:34:28,837 [INFO] Prediction made: Minor Injury with confidence 0.734
+2026-02-09 14:34:28,838 [INFO] 127.0.0.1 - - [09/Feb/2026 14:34:28] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:34:34,992 [INFO] Prediction made: Minor Injury with confidence 0.734
+2026-02-09 14:34:34,992 [INFO] 127.0.0.1 - - [09/Feb/2026 14:34:34] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:34:40,457 [INFO] 127.0.0.1 - - [09/Feb/2026 14:34:40] "GET / HTTP/1.1" 200 -
+2026-02-09 14:34:40,593 [INFO] 127.0.0.1 - - [09/Feb/2026 14:34:40] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 14:34:43,996 [INFO] Prediction made: Fatal with confidence 0.955
+2026-02-09 14:34:43,997 [INFO] 127.0.0.1 - - [09/Feb/2026 14:34:43] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:34:49,296 [INFO] Prediction made: Fatal with confidence 0.829
+2026-02-09 14:34:49,297 [INFO] 127.0.0.1 - - [09/Feb/2026 14:34:49] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:04,530 [INFO] Prediction made: Fatal with confidence 0.829
+2026-02-09 14:35:04,531 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:04] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:11,068 [INFO] Prediction made: Fatal with confidence 0.809
+2026-02-09 14:35:11,069 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:11] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:19,180 [INFO] Prediction made: Minor Injury with confidence 0.952
+2026-02-09 14:35:19,180 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:19] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:25,331 [INFO] Prediction made: Minor Injury with confidence 0.952
+2026-02-09 14:35:25,331 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:25] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:32,545 [INFO] Prediction made: Minor Injury with confidence 0.952
+2026-02-09 14:35:32,545 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:32] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:39,856 [INFO] Prediction made: Fatal with confidence 0.665
+2026-02-09 14:35:39,856 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:39] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:50,119 [INFO] Prediction made: Fatal with confidence 0.699
+2026-02-09 14:35:50,120 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:50] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:35:57,236 [INFO] Prediction made: Minor Injury with confidence 0.948
+2026-02-09 14:35:57,237 [INFO] 127.0.0.1 - - [09/Feb/2026 14:35:57] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:36:02,573 [INFO] Prediction made: Fatal with confidence 0.699
+2026-02-09 14:36:02,573 [INFO] 127.0.0.1 - - [09/Feb/2026 14:36:02] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:36:14,936 [INFO] Prediction made: Severe Injury with confidence 0.561
+2026-02-09 14:36:14,936 [INFO] 127.0.0.1 - - [09/Feb/2026 14:36:14] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:36:21,185 [INFO] Prediction made: Severe Injury with confidence 0.563
+2026-02-09 14:36:21,186 [INFO] 127.0.0.1 - - [09/Feb/2026 14:36:21] "POST /predict HTTP/1.1" 200 -
+2026-02-09 14:36:27,867 [INFO] Prediction made: Fatal with confidence 0.699
+2026-02-09 14:36:27,867 [INFO] 127.0.0.1 - - [09/Feb/2026 14:36:27] "POST /predict HTTP/1.1" 200 -
+2026-02-09 15:57:59,196 [INFO] 127.0.0.1 - - [09/Feb/2026 15:57:59] "GET / HTTP/1.1" 200 -
+2026-02-09 15:57:59,356 [INFO] 127.0.0.1 - - [09/Feb/2026 15:57:59] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-02-09 15:58:04,394 [INFO] Prediction made: Fatal with confidence 0.955
+2026-02-09 15:58:04,395 [INFO] 127.0.0.1 - - [09/Feb/2026 15:58:04] "POST /predict HTTP/1.1" 200 -
+2026-02-09 15:58:18,476 [INFO] Prediction made: Fatal with confidence 0.955
+2026-02-09 15:58:18,476 [INFO] 127.0.0.1 - - [09/Feb/2026 15:58:18] "POST /predict HTTP/1.1" 200 -
