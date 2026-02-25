@@ -58,14 +58,14 @@ This project builds an end-to-end machine learning system to predict **car crash
    ```
 
 2. **Run Flask Web App**
-   ```bash
-  python -m venv venv
-  source venv/bin/activate      # Linux/Mac
-  venv\Scripts\activate         # Windows
-  ```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate      # Linux/Mac
+    venv\Scripts\activate         # Windows
+    ```
 
 3. **Create Virtual Environment**
-   ```bash
-  cd app
-```
-  python app.py
+    ```bash
+    cd app
+    python app.py
+    ```
