@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crash Severity Predictor</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <style>
+        body {
+            padding: 30px;
+            background-color: #f8f9fa;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .section {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .popup {
+            display: none;
+            position: fixed;
+            z-index: 10;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.5);
+        }
+        .popup-content {
+            background-color: #fff;
+            margin: 15% auto;
+            padding: 30px;
+            border-radius: 12px;
+            width: 90%;
+            max-width: 500px;
+            text-align: center;
+        }
+        #close {
+            float: right;
+            font-size: 24px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Accident Severity Prediction</h1>
+
+    <form id="predictForm">
+
+        <!-- Crash Features -->
+        <div class="section">
+            <h4>Crash Features</h4>
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label for="speed" class="form-label">Crash Speed (km/h)</label>
+                    <input type="number" class="form-control" id="speed" placeholder="Enter crash speed">
+                </div>
+                <div class="col-md-6">
+                    <label for="angle" class="form-label">Impact Angle (degrees)</label>
+                    <input type="number" class="form-control" id="angle" placeholder="Enter impact angle">
+                </div>
+                <div class="col-md-6">
+                    <label for="airbag" class="form-label">Airbag Deployed</label>
+                    <select class="form-select" id="airbag">
+                        <option>No</option>
+                        <option>Yes</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label for="seatbelt" class="form-label">Seatbelt Worn</label>
+                    <select class="form-select" id="seatbelt">
+                        <option>No</option>
+                        <option>Yes</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="weather" class="form-label">Weather Condition</label>
+                    <select class="form-select" id="weather">
+                        <option>Clear</option>
+                        <option>Rain</option>
+                        <option>Fog</option>
+                        <option>Snow</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="road" class="form-label">Road Condition</label>
+                    <select class="form-select" id="road">
+                        <option>Dry</option>
+                        <option>Wet</option>
+                        <option>Uneven</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="crash_type" class="form-label">Crash Type</label>
+                    <select class="form-select" id="crash_type">
+                        <option>Rear-end</option>
+                        <option>Side impact</option>
+                        <option>Head-on</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Vehicle Features -->
+        <div class="section">
+            <h4>Vehicle Features</h4>
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label for="vehicle_type" class="form-label">Vehicle Type</label>
+                    <select class="form-select" id="vehicle_type">
+                        <option>Car</option>
+                        <option>Truck</option>
+                        <option>SUV</option>
+                        <option>Sedan</option>
+                        <option>Motorcycle</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="vehicle_age" class="form-label">Vehicle Age (years)</label>
+                    <input type="number" class="form-control" id="vehicle_age" placeholder="Enter vehicle age">
+                </div>
+                <div class="col-md-2">
+                    <label for="brake" class="form-label">Brake Condition</label>
+                    <select class="form-select" id="brake">
+                        <option>Good</option>
+                        <option>Worn out</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <label for="tire" class="form-label">Tire Condition</label>
+                    <select class="form-select" id="tire">
+                        <option>Good</option>
+                        <option>Worn out</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Driver Features -->
+        <div class="section">
+            <h4>Driver Features</h4>
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label for="driver_age" class="form-label">Driver Age</label>
+                    <input type="number" class="form-control" id="driver_age" placeholder="Enter driver age">
+                </div>
+                <div class="col-md-4">
+                    <label for="experience" class="form-label">Driver Experience (years)</label>
+                    <input type="number" class="form-control" id="experience" placeholder="Enter experience">
+                </div>
+                <div class="col-md-4">
+                    <label for="alcohol" class="form-label">Alcohol Level (BAC%)</label>
+                    <input type="number" step="0.01" class="form-control" id="alcohol" placeholder="Enter BAC%">
+                </div>
+            </div>
+        </div>
+
+        <!-- Environmental Features -->
+        <div class="section">
+            <h4>Environmental Features</h4>
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label for="time" class="form-label">Time of Day</label>
+                    <select class="form-select" id="time">
+                        <option>Morning</option>
+                        <option>Afternoon</option>
+                        <option>Night</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="traffic" class="form-label">Traffic Level</label>
+                    <select class="form-select" id="traffic">
+                        <option>Low</option>
+                        <option>Medium</option>
+                        <option>High</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="visibility" class="form-label">Visibility Distance (m)</label>
+                    <input type="number" class="form-control" id="visibility" placeholder="Enter visibility">
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100 mt-3"> Predict</button>
+    </form>
+
+    <!-- POPUP -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span id="close">&times;</span>
+            <h2 id="result"></h2>
+            <p id="confidence"></p>
+        </div>
+    </div>
+</div>
+
+
+<script src="/static/js/app.js"></script>
+</body>
+</html>
