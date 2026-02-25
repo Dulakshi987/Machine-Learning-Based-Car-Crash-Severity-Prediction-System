@@ -55,14 +55,17 @@ This project builds an end-to-end machine learning system to predict **car crash
    ```bash
    git clone https://github.com/yourusername/car-crash-severity-prediction.git
    cd car-crash-severity-prediction/1.CI_CIS6005-II
+   ```
 
 2. **Run Flask Web App**
- ```bash
-python -m venv venv
-source venv/bin/activate      # Linux/Mac
-venv\Scripts\activate         # Windows
+   ```bash
+  python -m venv venv
+  source venv/bin/activate      # Linux/Mac
+  venv\Scripts\activate         # Windows
+  ```
 
 3. **Create Virtual Environment**
- ```bash
-cd app
-python app.py
+   ```bash
+  cd app
+```
+  python app.py
